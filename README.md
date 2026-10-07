@@ -1,1 +1,1 @@
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffvan302&layout=pie&langs_count=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffvan302&layout=pie&langs_count=10&bg_color=00000000&hide_border=true&text_color=ffffff&title_color=ffffff)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffvan302&layout=pie&langs_count=10)

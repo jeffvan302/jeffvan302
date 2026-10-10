@@ -35,10 +35,10 @@ I lead complex projects while remaining hands-on with architecture and implement
 
 Most of my work is private, so these are short summaries with no code or client data.
 
+- **[NodeRAG](https://github.com/jeffvan302/NodeRAG-Releases)** · *2026* · Lightweight, private document search and chat (RAG) system that installs as a Synology NAS package, built as a foundation designed to grow.
 - **Case management and reporting platform** · *2000–2020* · Maintained for 20 years; wrote about 60% of the original VB6 application, later adding a .NET reporting service and SQL Server CLR logic.
 - **Face recognition CLI** · *2026* · Python and InsightFace: enrollment with outlier rejection, matching, and grouping of unknown faces.
 - **YOLOv8 toolkit for .NET** · *2024–2025* · C# ONNX inference library plus tools for synthetic training images and dataset export.
-- **Backup2Flash** · *2013–2016* · Windows service that backs up chosen folders when a USB drive is plugged in.
 - For more projects, [click here](https://github.com/jeffvan302/jeffvan302/blob/main/PAST_WORK.md).
 
 ## Tech

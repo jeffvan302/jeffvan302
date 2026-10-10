@@ -4,6 +4,10 @@ Most of my career has been client and private work that can't be published. Thes
 
 ## Recent projects
 
+**[NodeRAG](https://github.com/jeffvan302/NodeRAG-Releases)** · *2026 · release candidate*<br>
+A lightweight, private retrieval-augmented generation (RAG) system packaged for Synology NAS. It ingests TXT, Markdown, PDF, DOCX and XLSX files into a local PostgreSQL/pgvector database with on-device Qwen3 embeddings, offers vector, semantic, keyword and hybrid search with source viewers, citations and highlights, and adds per-user chat through Ollama Cloud or OpenAI. Durable ingestion jobs, connected folders, reindexing, backups and admin diagnostics are built in. It is deliberately compact for its first release, with an architecture meant to be expanded considerably.<br>
+`Node.js` · `PostgreSQL` · `pgvector` · `Qwen3 embeddings` · `Ollama` · `Synology DSM`
+
 **Afrikaans speech recognition pipeline** · *2026*<br>
 Desktop tool that downloads YouTube audio and auto-generated captions, lets reviewers correct caption timing in a GUI editor, and exports speech-recognition training datasets, with S3-compatible cloud sync for collaborating reviewers and a one-click Windows launcher. Companion scripts merge mixed-format speech datasets and fine-tune Whisper large-v3 for Afrikaans. [web-transcription](https://github.com/jeffvan302/web-transcription) is its web version.<br>
 `Python` · `Whisper` · `Hugging Face Transformers` · `PyTorch` · `ffmpeg` · `S3`

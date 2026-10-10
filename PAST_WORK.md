@@ -2,15 +2,15 @@
 
 Most of my career has been client and private work that can't be published. These are summaries, with no code or client data included. I'm happy to discuss any of them in more detail.
 
-## Recent AI and tooling work
+## Recent projects
 
 **Afrikaans speech recognition pipeline** · *2026*<br>
 Desktop tool that downloads YouTube audio and auto-generated captions, lets reviewers correct caption timing in a GUI editor, and exports speech-recognition training datasets, with S3-compatible cloud sync for collaborating reviewers and a one-click Windows launcher. Companion scripts merge mixed-format speech datasets and fine-tune Whisper large-v3 for Afrikaans. [web-transcription](https://github.com/jeffvan302/web-transcription) is its web version.<br>
 `Python` · `Whisper` · `Hugging Face Transformers` · `PyTorch` · `ffmpeg` · `S3`
 
-**Real-time game combat overlay** · *2025–2026*<br>
-C++ DirectX proxy DLL that draws an in-game overlay for Star Wars: The Old Republic: live combat-log parsing, per-second statistics, configurable alerts with audio, and an in-game layout editor. Plugins can be written in Python through an embedded interpreter with typed bindings. Built around a lock-free multi-producer queue, NTP-synchronised timestamps, per-thread CPU monitoring and a standalone DirectX 9 test harness.<br>
-`C++` · `DirectX` · `Dear ImGui` · `Detours` · `pybind11` · `multithreading`
+**Lock-free multithreading in a real-time overlay** · *2025–2026*<br>
+An experiment in highly efficient multithreading, using a live game as a demanding real-time test bed. Instead of guarding shared data with locks, threads hand data to each other through lock-free triple buffers built on atomic operations (compare-and-swap slot states with acquire/release memory ordering). A background thread parses the combat log and pre-formats each frame's display data, and the render thread always picks up the latest snapshot without blocking or stalling a frame. The visible result is a DirectX combat overlay for Star Wars: The Old Republic with live statistics, alerts, an in-game layout editor and Python plugins, plus per-thread CPU monitoring to measure what each thread costs.<br>
+`C++` · `lock-free concurrency` · `std::atomic` · `DirectX` · `Dear ImGui` · `pybind11`
 
 **Face recognition CLI** · *2026*<br>
 Python command-line tool built on InsightFace embeddings. It enrolls people from labelled folders with automatic outlier rejection plus face quality and pose filtering, matches faces by cosine similarity with JSON output, and groups unknown faces under persistent IDs so they can be named later.<br>
@@ -38,11 +38,7 @@ Reporting suite on top of the company's construction accounting ERP over ODBC: b
 Map-based network monitoring desktop app: drag devices onto editable network maps and see live status from ping, SNMP (switch port statistics, printer toner), WMI service checks and SSH, with one-click RDP, SSH, VNC and web access plus a built-in OpenVPN connection manager.<br>
 `VB.NET` · `SNMP` · `WMI` · `SSH` · `OpenVPN`
 
-## Desktop utilities
-
-**STO Keybinds** · *public desktop app · 2012–2018*<br>
-Key-binding editor for the game Star Trek Online, with bind sets, presets, ground and space templates, guided help videos and a signed installer.<br>
-`VB.NET` · `WinForms`
+## Desktop utility
 
 **Backup2Flash** · *2013–2016*<br>
 Windows app and service that detects when a USB flash drive is plugged in, backs up chosen folders to it by copying only changed files, and ejects the drive when finished. Shipped with an MSI installer.<br>

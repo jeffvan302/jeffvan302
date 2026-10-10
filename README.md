@@ -2,11 +2,8 @@
 
 Senior software and data workflow developer with **24+ years of experience** building business systems, data platforms, internal tools, APIs, automation, and AI-supported applications.
 
-<p align="center">
-  <a href="https://github.com/jeffvan302?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffvan302&layout=pie&langs_count=10&bg_color=00000000&hide_border=true&text_color=ffffff&title_color=ffffff" alt="Top Languages" height="250" /></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/jeffvan302?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=jeffvan302&show_icons=true&bg_color=00000000&hide_border=true&text_color=ffffff&title_color=ffffff&icon_color=58a6ff" alt="GitHub Stats" height="250" /></a>
-</p>
+<!-- LANGUAGES:START -->
+<!-- LANGUAGES:END -->
 
 ## Current Focus
 

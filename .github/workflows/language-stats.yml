@@ -1,0 +1,48 @@
+name: Update language stats
+
+on:
+  schedule:
+    - cron: "17 6 * * *"   # daily, 06:17 UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths-ignore:
+      - "assets/languages/**"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: language-stats
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Rebuild the languages block
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USERNAME: ${{ github.repository_owner }}
+          TOP_N: "8"
+          EXCLUDE_LANGS: ""
+          EXCLUDE_REPOS: ${{ github.event.repository.name }}
+        run: python .github/scripts/update_languages.py
+
+      - name: Commit if anything changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A README.md assets/languages
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "Update language stats"
+            git push
+          fi

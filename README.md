@@ -22,8 +22,7 @@ Most of my work is private, so these are short summaries with no code or client 
 - **Face recognition CLI** · *2026* · Python and InsightFace: enrollment with outlier rejection, matching, and grouping of unknown faces.
 - **YOLOv8 toolkit for .NET** · *2024–2025* · C# ONNX inference library plus tools for synthetic training images and dataset export.
 - **Backup2Flash** · *2013–2016* · Windows service that backs up chosen folders when a USB drive is plugged in.
-
-**[More projects and details →](https://github.com/jeffvan302/jeffvan302/blob/main/PAST_WORK.md)**
+- For more projects, [click here](https://github.com/jeffvan302/jeffvan302/blob/main/PAST_WORK.md).
 
 ## Tech
 

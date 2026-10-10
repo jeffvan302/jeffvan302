@@ -3,6 +3,26 @@
 Senior software and data workflow developer with **24+ years of experience** building business systems, data platforms, internal tools, APIs, automation, and AI-supported applications.
 
 <!-- LANGUAGES:START -->
+<table align="center">
+<tr>
+<td><a href="https://github.com/jeffvan302?tab=repositories"><img src="assets/languages/pie.svg" alt="Pie chart of most used languages" width="200" height="200" /></a></td>
+<td>
+<table>
+<tr><th></th><th align="left">Language</th><th align="right">Share</th></tr>
+<tr><td><a href="https://github.com/jeffvan302?tab=repositories"><img src="assets/languages/cpp.svg" alt="" width="12" height="12" /></a></td><td>C++</td><td align="right">64.1%</td></tr>
+<tr><td><a href="https://github.com/jeffvan302?tab=repositories"><img src="assets/languages/python.svg" alt="" width="12" height="12" /></a></td><td>Python</td><td align="right">17.7%</td></tr>
+<tr><td><a href="https://github.com/jeffvan302?tab=repositories"><img src="assets/languages/html.svg" alt="" width="12" height="12" /></a></td><td>HTML</td><td align="right">8.8%</td></tr>
+<tr><td><a href="https://github.com/jeffvan302?tab=repositories"><img src="assets/languages/javascript.svg" alt="" width="12" height="12" /></a></td><td>JavaScript</td><td align="right">3.0%</td></tr>
+<tr><td><a href="https://github.com/jeffvan302?tab=repositories"><img src="assets/languages/c.svg" alt="" width="12" height="12" /></a></td><td>C</td><td align="right">1.6%</td></tr>
+<tr><td><a href="https://github.com/jeffvan302?tab=repositories"><img src="assets/languages/typescript.svg" alt="" width="12" height="12" /></a></td><td>TypeScript</td><td align="right">1.6%</td></tr>
+<tr><td><a href="https://github.com/jeffvan302?tab=repositories"><img src="assets/languages/kotlin.svg" alt="" width="12" height="12" /></a></td><td>Kotlin</td><td align="right">1.1%</td></tr>
+<tr><td><a href="https://github.com/jeffvan302?tab=repositories"><img src="assets/languages/jupyter-notebook.svg" alt="" width="12" height="12" /></a></td><td>Jupyter Notebook</td><td align="right">0.8%</td></tr>
+<tr><td><a href="https://github.com/jeffvan302?tab=repositories"><img src="assets/languages/other.svg" alt="" width="12" height="12" /></a></td><td>Other</td><td align="right">1.1%</td></tr>
+</table>
+</td>
+</tr>
+</table>
+<p align="center"><sub>Most used languages across my public repositories, by code size · updated daily</sub></p>
 <!-- LANGUAGES:END -->
 
 ## Current Focus

@@ -5,7 +5,7 @@ Most of my career has been client and private work that can't be published. Thes
 ## Recent projects
 
 **[NodeRAG](https://github.com/jeffvan302/NodeRAG-Releases)** · *2026 · release candidate*<br>
-A lightweight, private retrieval-augmented generation (RAG) system packaged for Synology NAS. It ingests TXT, Markdown, PDF, DOCX and XLSX files into a local PostgreSQL/pgvector database with on-device Qwen3 embeddings, offers vector, semantic, keyword and hybrid search with source viewers, citations and highlights, and adds per-user chat through Ollama Cloud or OpenAI. Durable ingestion jobs, connected folders, reindexing, backups and admin diagnostics are built in. It is deliberately compact for its first release, with an architecture meant to be expanded considerably.<br>
+A lightweight, private vector search database and retrieval-augmented generation (RAG) system packaged for Synology NAS. It ingests TXT, Markdown, PDF, DOCX and XLSX files into a local PostgreSQL/pgvector database with on-device Qwen3 embeddings, offers vector, semantic, keyword and hybrid search with source viewers, citations and highlights, and adds per-user chat through Ollama Cloud or OpenAI. Durable ingestion jobs, connected folders, reindexing, backups and admin diagnostics are built in. It is deliberately compact for its first release, with an architecture meant to be expanded considerably.<br>
 `Node.js` · `PostgreSQL` · `pgvector` · `Qwen3 embeddings` · `Ollama` · `Synology DSM`
 
 **Afrikaans speech recognition pipeline** · *2026*<br>

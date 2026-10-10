@@ -9,15 +9,15 @@ Senior software and data workflow developer with **24+ years of experience** bui
 <td>
 <table>
 <tr><th></th><th align="left">Language</th><th align="right">Share</th></tr>
-<tr><td><a href="https://github.com/jeffvan302?tab=repositories"><img src="assets/languages/cpp.svg" alt="" width="12" height="12" /></a></td><td>C++</td><td align="right">64.1%</td></tr>
-<tr><td><a href="https://github.com/jeffvan302?tab=repositories"><img src="assets/languages/python.svg" alt="" width="12" height="12" /></a></td><td>Python</td><td align="right">17.7%</td></tr>
-<tr><td><a href="https://github.com/jeffvan302?tab=repositories"><img src="assets/languages/html.svg" alt="" width="12" height="12" /></a></td><td>HTML</td><td align="right">8.8%</td></tr>
-<tr><td><a href="https://github.com/jeffvan302?tab=repositories"><img src="assets/languages/javascript.svg" alt="" width="12" height="12" /></a></td><td>JavaScript</td><td align="right">3.0%</td></tr>
-<tr><td><a href="https://github.com/jeffvan302?tab=repositories"><img src="assets/languages/c.svg" alt="" width="12" height="12" /></a></td><td>C</td><td align="right">1.6%</td></tr>
-<tr><td><a href="https://github.com/jeffvan302?tab=repositories"><img src="assets/languages/typescript.svg" alt="" width="12" height="12" /></a></td><td>TypeScript</td><td align="right">1.6%</td></tr>
-<tr><td><a href="https://github.com/jeffvan302?tab=repositories"><img src="assets/languages/kotlin.svg" alt="" width="12" height="12" /></a></td><td>Kotlin</td><td align="right">1.1%</td></tr>
-<tr><td><a href="https://github.com/jeffvan302?tab=repositories"><img src="assets/languages/jupyter-notebook.svg" alt="" width="12" height="12" /></a></td><td>Jupyter Notebook</td><td align="right">0.8%</td></tr>
-<tr><td><a href="https://github.com/jeffvan302?tab=repositories"><img src="assets/languages/other.svg" alt="" width="12" height="12" /></a></td><td>Other</td><td align="right">1.1%</td></tr>
+<tr><td><a href="https://github.com/jeffvan302?tab=repositories"><img src="assets/languages/cpp.svg" alt="" width="12" height="12" /></a></td><td>C++</td><td align="right">47.9%</td></tr>
+<tr><td><a href="https://github.com/jeffvan302?tab=repositories"><img src="assets/languages/typescript.svg" alt="" width="12" height="12" /></a></td><td>TypeScript</td><td align="right">23.7%</td></tr>
+<tr><td><a href="https://github.com/jeffvan302?tab=repositories"><img src="assets/languages/python.svg" alt="" width="12" height="12" /></a></td><td>Python</td><td align="right">13.4%</td></tr>
+<tr><td><a href="https://github.com/jeffvan302?tab=repositories"><img src="assets/languages/html.svg" alt="" width="12" height="12" /></a></td><td>HTML</td><td align="right">6.6%</td></tr>
+<tr><td><a href="https://github.com/jeffvan302?tab=repositories"><img src="assets/languages/javascript.svg" alt="" width="12" height="12" /></a></td><td>JavaScript</td><td align="right">3.3%</td></tr>
+<tr><td><a href="https://github.com/jeffvan302?tab=repositories"><img src="assets/languages/c.svg" alt="" width="12" height="12" /></a></td><td>C</td><td align="right">1.2%</td></tr>
+<tr><td><a href="https://github.com/jeffvan302?tab=repositories"><img src="assets/languages/css.svg" alt="" width="12" height="12" /></a></td><td>CSS</td><td align="right">1.1%</td></tr>
+<tr><td><a href="https://github.com/jeffvan302?tab=repositories"><img src="assets/languages/shell.svg" alt="" width="12" height="12" /></a></td><td>Shell</td><td align="right">0.9%</td></tr>
+<tr><td><a href="https://github.com/jeffvan302?tab=repositories"><img src="assets/languages/other.svg" alt="" width="12" height="12" /></a></td><td>Other</td><td align="right">2.0%</td></tr>
 </table>
 </td>
 </tr>

@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200" role="img" aria-label="Most used languages">
   <g stroke="#000000" stroke-opacity="0.25" stroke-width="1" stroke-linejoin="round">
-  <path d="M100.0,100.0 L100.00,2.00 A98,98 0 1 1 24.09,161.98 Z" fill="#f34b7d"><title>C++ 64.1%</title></path>
-  <path d="M100.0,100.0 L24.09,161.98 A98,98 0 0 1 10.94,59.11 Z" fill="#3572A5"><title>Python 17.7%</title></path>
-  <path d="M100.0,100.0 L10.94,59.11 A98,98 0 0 1 45.82,18.34 Z" fill="#e34c26"><title>HTML 8.8%</title></path>
-  <path d="M100.0,100.0 L45.82,18.34 A98,98 0 0 1 62.32,9.53 Z" fill="#f1e05a"><title>JavaScript 3.0%</title></path>
-  <path d="M100.0,100.0 L62.32,9.53 A98,98 0 0 1 71.85,6.13 Z" fill="#555555"><title>C 1.6%</title></path>
-  <path d="M100.0,100.0 L71.85,6.13 A98,98 0 0 1 81.60,3.74 Z" fill="#3178c6"><title>TypeScript 1.6%</title></path>
-  <path d="M100.0,100.0 L81.60,3.74 A98,98 0 0 1 88.36,2.69 Z" fill="#A97BFF"><title>Kotlin 1.1%</title></path>
-  <path d="M100.0,100.0 L88.36,2.69 A98,98 0 0 1 93.36,2.22 Z" fill="#DA5B0B"><title>Jupyter Notebook 0.8%</title></path>
-  <path d="M100.0,100.0 L93.36,2.22 A98,98 0 0 1 100.00,2.00 Z" fill="#8b949e"><title>Other 1.1%</title></path>
+  <path d="M100.0,100.0 L100.00,2.00 A98,98 0 0 1 113.18,197.11 Z" fill="#f34b7d"><title>C++ 47.9%</title></path>
+  <path d="M100.0,100.0 L113.18,197.11 A98,98 0 0 1 4.26,120.92 Z" fill="#3178c6"><title>TypeScript 23.7%</title></path>
+  <path d="M100.0,100.0 L4.26,120.92 A98,98 0 0 1 20.60,42.56 Z" fill="#3572A5"><title>Python 13.4%</title></path>
+  <path d="M100.0,100.0 L20.60,42.56 A98,98 0 0 1 50.44,15.46 Z" fill="#e34c26"><title>HTML 6.6%</title></path>
+  <path d="M100.0,100.0 L50.44,15.46 A98,98 0 0 1 68.78,7.11 Z" fill="#f1e05a"><title>JavaScript 3.3%</title></path>
+  <path d="M100.0,100.0 L68.78,7.11 A98,98 0 0 1 76.02,4.98 Z" fill="#555555"><title>C 1.2%</title></path>
+  <path d="M100.0,100.0 L76.02,4.98 A98,98 0 0 1 82.43,3.59 Z" fill="#663399"><title>CSS 1.1%</title></path>
+  <path d="M100.0,100.0 L82.43,3.59 A98,98 0 0 1 87.82,2.76 Z" fill="#89e051"><title>Shell 0.9%</title></path>
+  <path d="M100.0,100.0 L87.82,2.76 A98,98 0 0 1 100.00,2.00 Z" fill="#8b949e"><title>Other 2.0%</title></path>
   </g>
 </svg>
